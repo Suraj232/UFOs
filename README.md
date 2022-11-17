@@ -12,6 +12,7 @@ Client requested to create the dynamic website. The website consist of a table w
 
 ### Results for the applied filter:
 On the filter area, after entering the values in filter section we get the desired output as shown below. To reset the filter, user can click on UFO Sightings link on the top of the web page.
+<img width="907" alt="Filtered_result" src="https://user-images.githubusercontent.com/110261837/202342590-bb300539-f7f4-4133-a82b-f8f14ac85ea2.png">
 
 
 ## Summary:
